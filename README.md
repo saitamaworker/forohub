@@ -85,62 +85,106 @@
 ##  🚀 <b>CONFIGURACION DEL PROYECTO<b>
 <br>
 
-1. Clonar el Repositorio
-git clone https://github.com/tu-usuario/forohub.git
-cd forohub
+1. **Clonar el Repositorio**
 
-2. Configurar Base de Datos
-Crear base de datos MySQL
+   ```bash
+   git clone https://github.com/tu-usuario/forohub.git
+   cd forohub
 
-CREATE DATABASE forohub;
+2. **Configurar Base de Datos**
 
-Configurar credenciales en application.properties
-PROPERTIES
+    ```SQL
+   CREATE DATABASE forohub;
 
-spring.datasource.url=jdbc:mysql://localhost:3306/forohub
+3. **Configurar credenciales en application.properties**
 
-3. Compilar y Ejecutar
+   ```PROPERTIES
+   spring.datasource.url=jdbc:mysql://localhost/forohub
+   spring.datasource.username=tu_usuario
+   spring.datasource.password=tu_contraseña
 
+4. **Compilar y ejecutar**
 
-
-
-
-Endpoints principales 🌐
-Autenticación
-POST /login: Iniciar sesión y obtener token JWT
-Tópicos
-POST /topicos: Crear nuevo tópico (Requiere autenticación)
-GET /topicos: Listar tópicos (Requiere autenticación)
-PUT /topicos/{id}: Actualizar tópico (Requiere autenticación)
-DELETE /topicos/{id}: Eliminar tópico (Requiere rol ADMIN)
+   ```bash
+   click en run.
+<br>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+##  🌐 <b>ENDPOINTS PRINCIPALES<b>
+<br>
+   
+↕️Autenticación
 
-Documentación de API 📖
-Accede a la documentación de Swagger:
+:small_orange_diamond:POST /login: Iniciar sesión y obtener token JWT
 
-URL: http://localhost:8080/swagger-ui.html
+↕️Tópicos
 
+:small_orange_diamond:POST /topicos: Crear nuevo tópico (Requiere autenticación)
 
-Seguridad 🔒
-Autenticación basada en JWT
-Roles de usuario (USER/ADMIN)
-Endpoints protegidos
+:small_orange_diamond:GET /topicos: Listar tópicos (Requiere autenticación)
 
-Migraciones de Base de Datos 🗄️
-Migraciones de Base de Datos
-Las migraciones se manejan con Flyway. Los scripts de migración se encuentran en:
-src/main/resources/db/migration/
+:small_orange_diamond:PUT /topicos/{id}: Actualizar tópico (Requiere autenticación)
 
-Contribuciones 🤝
-Haz un fork del proyecto
-Crea tu feature branch (git checkout -b feature/nueva-caracteristica)
-Commit tus cambios (git commit -m 'Añadir nueva característica')
-Push a la rama (git push origin feature/nueva-caracteristica)
-Abre un Pull Request
+:small_orange_diamond:DELETE /topicos/{id}: Eliminar tópico (Requiere rol ADMIN)
+<br>
 
 
-Recursos Adicionales
-Documentación Spring Boot
-Guía JWT
-Swagger OpenAPI
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+##  📖 <b>DOCUMENTACION DE API<b>
+<br>
+
+🏗️ Accede a la documentación de Swagger:
+
+ URL
+    http://localhost:8080/swagger-ui.html
+<br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+##  🔒 <b>SEGURIDAD<b>
+<br>
+
+:small_orange_diamond:Autenticación basada en JWT
+
+:small_orange_diamond:Roles de usuario (USER/ADMIN)
+
+:small_orange_diamond:Endpoints protegidos
+<br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+##  🗄️ <b>MIGRACIONES DE BASE DE DATOS<b>
+<br>
+
+👉 Las migraciones se manejan con Flyway. 
+
+:small_orange_diamond:src/main/resources/db/migration/
+<br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+##  🤝 <b>CONTRIBUCIONES<b>
+<br>
+
+:small_orange_diamond:Haz un fork del proyecto
+
+:small_orange_diamond:Crea tu feature branch (git checkout -b feature/nueva-caracteristica)
+
+:small_orange_diamond:Commit tus cambios (git commit -m 'Añadir nueva característica')
+
+:small_orange_diamond:Push a la rama (git push origin feature/nueva-caracteristica)
+
+:small_orange_diamond:Abre un Pull Request
+<br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+##  🤝 <b>RECURSOS ADICIONALES<b>
+<br>
+
+:small_orange_diamond:[Documentación Spring Boot](https://docs.spring.io/spring-boot/index.html)
+
+:small_orange_diamond:[Guía JWT](https://jwt.io/)
+
+:small_orange_diamond:[Swagger OpenAPI](https://swagger.io/)
