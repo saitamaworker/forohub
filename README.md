@@ -1,53 +1,95 @@
-ForoHub API - Plataforma de Discusión 🚀
+## <h1 align="center">🚀<strong>Bienvenido a Forohub API Challenge</strong>🚀</h1>
 
-Descripción del Proyecto 📋
-ForoHub es una aplicación web desarrollada con Spring Boot que permite a los usuarios crear, consultar, actualizar y eliminar tópicos de discusión. La aplicación implementa autenticación JWT, control de acceso basado en roles y documentación de API con Swagger.
+<br>
+<!--About the challenge -->
+<br>
 
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 📋<b>DESCRIPCION DEL PROYECTO</b>
+<br> 
 
-Características Principales ✨
+👷‍♂️ ForoHub es una aplicación web desarrollada con Spring Boot que permite a los usuarios crear, consultar, actualizar y eliminar tópicos de discusión. La aplicación implementa autenticación JWT, control de acceso basado en roles y documentación de API con Swagger.
+<br>
+<!--CONVERTER FEATURES-->
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## ✨ <b>CARACTERISTICAS PRINCIPALES<b>
+<br>
 
 🔐 Autenticación y autorización con JWT
+
 📝 Gestión de tópicos (CRUD)
+
 🛡️ Control de acceso por roles
+
 📊 Documentación de API con Swagger
+
 💾 Persistencia de datos con MySQL
+
 🔄 Migraciones de base de datos con Flyway
+<br>
+<!--STACK-->
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 🔧 <b>TECNOLOGIAS UTILIZADAS<b>
+<br>
+
+👉 BACKEND:
+
+:small_orange_diamond:Java 17+
+
+:small_orange_diamond:Spring Boot 3.x
+
+:small_orange_diamond:Spring Security
+
+:small_orange_diamond:Spring Data JPA
+
+👉 BASE DE DATOS:
+
+:small_orange_diamond:MySQL 8.0
+
+:small_orange_diamond:Flyway Migration
+
+👉 AUTH:
+
+:small_orange_diamond:JWT (JSON Web Tokens)
+
+:small_orange_diamond:BCrypt Password Encoding
+
+👉 DOCUMENTACION:
+
+:small_orange_diamond:Swagger OpenAPI
+<!--Requirements-->
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+##  🔧 <b>REQUISITOS PREVIOS<b>
+<br>
+
+:small_orange_diamond:JDK 17 o superior
+
+:small_orange_diamond:Maven
+
+:small_orange_diamond:MySQL 8.0
+
+:small_orange_diamond:IDE (IntelliJ IDEA, Eclipse, VS Code)
+<br>
+<!--How it works-->
+<br>
 
 
-Tecnologías Utilizadas 🔧
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+##  🚀 <b>CONFIGURACION DEL PROYECTO<b>
+<br>
 
-Backend:
-
-Java 17+
-Spring Boot 3.x
-Spring Security
-Spring Data JPA
-Base de Datos:
-
-MySQL 8.0
-Flyway Migration
-Autenticación:
-
-JWT (JSON Web Tokens)
-BCrypt Password Encoding
-Documentación:
-
-Swagger OpenAPI
-
-Requisitos Previos
-JDK 17 o superior
-Maven
-MySQL 8.0
-IDE (IntelliJ IDEA, Eclipse, VS Code)
-
-
-Configuración del Proyecto
 1. Clonar el Repositorio
-   
 git clone https://github.com/tu-usuario/forohub.git
 cd forohub
 
-3. Configurar Base de Datos
+2. Configurar Base de Datos
 Crear base de datos MySQL
 
 CREATE DATABASE forohub;
