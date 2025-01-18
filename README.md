@@ -47,6 +47,8 @@
 
 :small_orange_diamond:Spring Data JPA
 
+:small_orange_diamond:Lombok
+
 👉 BASE DE DATOS:
 
 :small_orange_diamond:MySQL 8.0
