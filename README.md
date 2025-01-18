@@ -190,3 +190,47 @@
 :small_orange_diamond:[Guía JWT](https://jwt.io/)
 
 :small_orange_diamond:[Swagger OpenAPI](https://swagger.io/)
+<br>
+<!--More About Me-->
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><b> Sobre mí🏆<b>
+<br>
+
+<a href="https://www.linkedin.com/in/eduardo-iuorio/details/certifications" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Certificados-green?style=for-the-badge&color=3fFD7f">
+</a>
+<a href="https://www.linkedin.com/in/eduardo-iuorio/details/education" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Educacion-blue?style=for-the-badge&color=blue">
+</a>
+<a href="https://www.linkedin.com/in/eduardo-iuorio/details/experience" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/-Experiencia-red?style=for-the-badge&color=red">
+</a>
+
+<!--Github Logo Credits-->
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
+<div align=center>
+       <a href="https://github.com/Elnenedelguion" target="_blank" rel="noreferrer">
+       <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+       </a>
+</div>
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta Conmigo 🤝 </h2>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/eduardo-iuorio">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Elnenedelguion">
+		         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://x.com/elnenedelguion">
+	                 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 10px;"  target="_blank" href="https://discord.com/channels/elnenedelguion"><img src="https://github.com/user-attachments/assets/f1e69b21-c36c-4f2e-bb49-28b30a5d2e8a"></a>
+        <a href="https://medium.com/@eduiuorio" target="blank"><img src="https://github.com/user-attachments/assets/8279637f-b7c3-482d-8129-a5fbbfe156c7"></a>  
+</div>
+</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b> Me encantaría conectar con diferentes personas alrededor del mundo</b> por lo que si quieres puedes saludarme.</em> 🫣
